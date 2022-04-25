@@ -1,1 +1,1 @@
-# Streamlit_Azure_Cost_Dashboard
+# Streamlit
