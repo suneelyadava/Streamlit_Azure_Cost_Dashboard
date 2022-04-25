@@ -7,7 +7,7 @@
 #ENTRYPOINT ["streamlit", "run"] 
 #CMD ["test.py"]
 
-FROM python:3.8.0
+FROM python:3.9.0
 EXPOSE 8501
 WORKDIR /app
 COPY requirements.txt ./requirements.txt
