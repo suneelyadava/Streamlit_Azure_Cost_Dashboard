@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Azure-Cost-Evalution'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1694ED4EA6EA41D283266E4D982FE5E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A841A6C2B4D477FB6B0D92F14C767D6 }}
